@@ -40,6 +40,7 @@ main{
 .btn{
     font-family: "Madimi One", sans-serif;
     text-align: center;
+    display: flex;
 }
 .q{
     font-family: "Madimi One", sans-serif;
